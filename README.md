@@ -47,44 +47,44 @@
 
 # File Handling 
 
-[ ] Read and Count Words 
+[X] Read and Count Words 
 
 - Read a text file and count total words, lines, and characters. 
 
-[ ] Simple Log Writer 
+[X] Simple Log Writer 
 
 - Write logs to a file every time the script is run with timestamps. 
 
-[ ] CSV Reader 
+[X] CSV Reader 
 
 - Read a CSV file containing student marks and print names of students scoring above 75%. 
 
 # Basic Object-Oriented Programming (OOP) 
 
-[ ] Bank Account Simulation 
+[X] Bank Account Simulation 
 
 - Create a BankAccount class with deposit, withdraw, and balance inquiry methods. 
 
-[ ] Library Management System 
+[X] Library Management System 
 
 - Create classes for Book and Library. Add methods to borrow and return books. 
 
-[ ] Employee Management 
+[X] Employee Management 
 
 - Store employee details using classes and show details of employees in a specific department. 
 
 # Mini Projects / Application Logic 
 
-[ ] Simple Quiz App 
+[X] Simple Quiz App 
 
 - Create a console-based quiz app with questions and multiple-choice answers. 
 
-[ ] Expense Tracker 
+[X] Expense Tracker 
 
 - Input daily expenses and generate a weekly summary (store data in a file or dictionary). 
 
-[ ] To-Do App with File Persistence 
+[X] To-Do App with File Persistence 
 
-[ ] Add, remove, mark tasks complete, and save/load from a file. 
+- Add, remove, mark tasks complete, and save/load from a file. 
 
  
